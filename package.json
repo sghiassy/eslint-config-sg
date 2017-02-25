@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-sg",
+  "version": "1.0.0",
+  "keywords": ["eslint", "eslintconfig", "sg"],
+  "description": "An eslint configuration that pleases me",
+  "main": "index.js",
+  "repository": {},
+  "author": "Shaheen Ghiassy",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
